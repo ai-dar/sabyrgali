@@ -45,7 +45,7 @@ body {
   .resume-card {
     background-color: #ffffff;
     border-radius: 20px;
-    padding: 30px;
+    padding: 12px 12px 8px 12px;
     width: 380px;
     text-align: center;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
